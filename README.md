@@ -12,6 +12,7 @@ The dataset we have chosen today is [60k Stack Overflow Questions with Quality R
 
 ### let have a closer look
 ![image](https://github.com/Supmanzz555/NLP_StackOverFlowClassification/assets/83536257/1c9ae545-b4af-4d09-a317-2121e26117c3)
+
 we have 45000 sample (i cut it off so it not too much for my computer) and 6 feature with target named y which has 3 class
 
 - HQ: High-quality posts without a single edit.
