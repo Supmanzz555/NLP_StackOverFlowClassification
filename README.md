@@ -3,6 +3,8 @@ Implement various NLP Model To work with StackOverflowQuestion Dataset
 
 for Thai lang version you can read it on my medium [article](https://medium.com/@phaiphon_m/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89-nlp-with-stackoverflow-question-quality-classification-161e7e1abe44) 
 
+![](https://media1.tenor.com/m/bkx7ADV8vm0AAAAd/request-to-chat-gpt-request.gif)
+
 
 ## Introduction
 In this Project, we will apply machine learning knowledge in the area of ​​nlp (Natural language processing) to data to serve as a guide for building models. You can apply this knowledge to your own data in the future
